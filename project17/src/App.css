@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+h2{
+  color: rgb(255, 14, 134);
+}
+form{
+  width: 420px;
+  display: inline-block;
+  text-align: left;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(75, 73, 73);
+  font-weight: 600;
+  color: white;
+  
+}
+input{
+  height: 20px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+form label{
+  display: inline-block;
+  width: 150px;
+}
+form div{
+  margin: 10px;
+
+}
+.resultButton{
+  text-align: center;
+}
+button{
+  background-color: green;
+  color: white;
+  height: 30px;
+  width: 100px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+p{
+  width: 380px;
+text-align: left;
+padding-left: 10px;
+}
+span{
+  width: 150px;
+  padding: 10px
+
+}
+select{
+  width: 175px;
+}
+.radioSelect,.checkBoxSelect{
+  position: relative;
+  top: 5px;
+}
